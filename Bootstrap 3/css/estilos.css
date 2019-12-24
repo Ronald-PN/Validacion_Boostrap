@@ -1,0 +1,140 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+   background-color: rgb(191, 209, 198);
+   
+
+}
+.banco{
+   
+  color:rgb(114, 5, 238);
+  margin-top: 9px;
+font-family: fantasy;
+font-size: 30px;
+background-color: white;
+margin-left: 70px;
+
+
+}
+strong{
+    color: red;
+    font-size: 35px;
+    background-color: white;
+}
+.mensaje{
+    font-size: 35px;
+    margin-top: -180px;
+    position: absolute;
+    color: blue;
+}
+.forma{
+    border: 7px solid rgb(28, 44, 28);
+    background-color: darkslategrey;
+}
+.enviar{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+   border-radius: 5px;
+   margin-left: 25px;
+}
+.cancelar{
+    background-color: rgb(255, 38, 0);
+    color: white;
+    font-size: 20px;
+   border-radius: 5px;
+   margin-left: 30px;
+}
+
+.Ruamar{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 1050px;
+    
+}
+ul li{
+    list-style: none;
+}
+.fondo li a{
+  
+    color: rgb(253, 250, 250);
+    text-decoration: none;
+    padding: 10px 35px;
+    display: block;
+    font-size: 21px;
+    background-color: rgb(87, 163, 150);
+
+}
+
+.fondo > li{
+    float: left;
+ 
+}
+.fondo li a:hover{
+    background-color: rgb(172, 201, 214);
+    color: black;
+}
+.fondo li ul{
+    display:none;
+    position: absolute;
+   
+    
+}
+.fondo li:hover> ul{
+    display: block;
+}
+.fondo li ul li{
+    position: relative;
+    text-align: center;
+    background-color: rgb(48, g125, 128);
+    color:black;
+    
+}
+.fondo li ul li ul{
+    
+    top:0px;
+   
+}
+.fondo ul li{
+    background-color: rgb(187, 233, 233);
+}
+
+.header{
+    background-color: rgb(4, 40, 41);
+}
+.row{
+    border:none;
+}
+.central{
+    margin-top: 30px;
+  color: rgb(5, 5, 5);
+  font-size: 19px;
+  
+  border-color: white;
+  border-left: transparent;
+  border-right: transparent;
+  border-top: transparent;
+}
+.Subtitulo{
+    background-color: white ; 
+    color: rgb(36, 34, 180); 
+    margin-top:190px;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    border:3px solid rgb(31, 7, 165);
+}
+b{
+    color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
